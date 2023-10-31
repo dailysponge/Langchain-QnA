@@ -1,0 +1,8 @@
+env
+.env
+/storage/*
+langchain
+/src/storage/*
+/index_storage/*
+asset
+venv
